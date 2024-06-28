@@ -1,0 +1,4 @@
+    .linea-divisoria {
+        border-top: 2px solid #333; /* Ancho, estilo y color de la línea */
+        margin: 20px 0; /* Margen superior e inferior */
+    }

@@ -1,0 +1,58 @@
+﻿@page "/parametros"
+@using BlazorCrud.Shared;
+@using CurrieTechnologies.Razor.SweetAlert2;
+@using BlazorCrud.Client.Services;
+
+@inject SweetAlertService Swal;
+@inject IParametrosService parametroService;
+
+<h3>Parametros</h3>
+<a class="btn btn-success btn-sm mb-3" href="parametromante">Nuevo Parametro: </a>
+ <table class="table">
+    <thead>
+        <tr>
+            <th> Codigo</th>
+            <th> Descripción</th>
+            <th> Estado</th>
+
+        </tr>
+    </thead>
+    <tbody>
+                @if(listaParametros==null)
+                {
+                    <tr>
+                        <td colspan="5" align="center">
+                            <img style="width:50px" src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" />
+                        </td>
+                    </tr>
+                  
+                }
+                    else
+                    {
+                @foreach (var item in listaParametros)
+                        {
+                        <tr>
+                            <td>@item.codigo</td>
+                            <td>@item.descripcion</td>
+                            <td>@item.estado</td>
+                     
+                            <td>
+                                <a class="btn btn-primary btn-sm" href="empleado/@item.codigo">
+                                    <i class="oi oi-pencil"></i>
+                                </a>
+                                <button type="button" class="btn btn-danger btn-sm ms-2" @onclick="(() => Eliminar(item.codigo))">
+                                    <i class="oi oi-trash"></i>
+                                </button>
+
+
+                            </td>
+            </tr>
+            }
+        }
+
+
+
+    </tbody>
+</table>
+
+

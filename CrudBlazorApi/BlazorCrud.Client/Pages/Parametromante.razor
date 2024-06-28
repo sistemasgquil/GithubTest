@@ -1,0 +1,36 @@
+﻿@page "/parametromante"
+@* @page "/paramentromante/{codigoEditar:string}" *@
+
+
+@using BlazorCrud.Shared;
+@using BlazorCrud.Client.Services;
+
+@inject IParametrosService parametroService;
+@inject NavigationManager navegacion;
+
+<h3>Parametros de mantenimientos</h3>
+<EditForm Model="param" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <div class="mb-3">
+        <label class="form-label">Codigo:</label>
+        <InputText class="form-control" @bind-Value="param.codigo"></InputText>
+        <ValidationMessage For="@(() => param.codigo)"></ValidationMessage>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Descripcion:</label>
+        <InputText class="form-control" @bind-Value="param.descripcion"></InputText>
+        <ValidationMessage For="@(() => param.descripcion)"></ValidationMessage>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Estado:</label>
+        <InputText class="form-control" @bind-Value="param.estado"></InputText>
+        <ValidationMessage For="@(() => param.estado)"></ValidationMessage>
+    </div>
+    <button class="btn btn-primary" type="submit">
+        @btnTexto
+    </button>
+
+    <a class="btn btn-warning" href="parametros">Volver</a>
+</EditForm>
+
+
