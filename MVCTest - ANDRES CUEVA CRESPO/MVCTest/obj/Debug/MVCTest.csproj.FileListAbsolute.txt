@@ -1,0 +1,261 @@
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\csc.exe
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\vbc.exe
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\MVCTest.dll.config
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\MVCTest.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\MVCTest.pdb
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\EntityFramework.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Razor.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\WebGrease.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\EntityFramework.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.Razor.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\obj\Debug\MVCTest.csprojResolveAssemblyReference.cache
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+D:\Sources\VisualStudioProjects\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\csc.exe
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\vbc.exe
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\WebGrease.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.csprojResolveAssemblyReference.cache
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Gerencia de Proyectos\Proyectos Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\csc.exe
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\vbc.exe
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.dll.config
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\MVCTest.pdb
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Razor.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\WebGrease.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.Razor.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.csprojAssemblyReference.cache
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CopyComplete
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+D:\GerenciaServicios\Internos\Recursos Humanos\Prueba de Ingreso\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\csc.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\vbc.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Antlr3.Runtime.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\EntityFramework.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Newtonsoft.Json.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Optimization.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\WebGrease.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\EntityFramework.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Optimization.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Antlr3.Runtime.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\Newtonsoft.Json.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.AssemblyReference.cache
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.Up2Date
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\csc.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\vbc.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\MVCTest.dll.config
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\MVCTest.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\MVCTest.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Antlr3.Runtime.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\EntityFramework.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Newtonsoft.Json.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Optimization.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Razor.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\WebGrease.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\EntityFramework.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Optimization.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.Razor.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Antlr3.Runtime.pdb
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\Newtonsoft.Json.xml
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\obj\Debug\MVCTest.csproj.AssemblyReference.cache
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\obj\Debug\MVCTest.csproj.Up2Date
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\Agrosoft-PC\Desktop\MVCTest - ANDRES CUEVA CRESPO\MVCTest\obj\Debug\MVCTest.pdb
