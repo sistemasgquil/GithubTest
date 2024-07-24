@@ -5,7 +5,7 @@ using System.Web;
 
 namespace MVCTest.Models
 {
-    public class Student
+    public class Students
     {
 
         public int Id { get; set; }

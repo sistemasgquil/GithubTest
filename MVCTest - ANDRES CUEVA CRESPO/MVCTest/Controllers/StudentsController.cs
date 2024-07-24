@@ -17,6 +17,7 @@ namespace MVCTest.Controllers
         // GET: Students
         public ActionResult Index()
         {
+            // aqui llega la conexion de la clase: MVCTestContext
             return View(db.Students.ToList());
         }
 
@@ -27,7 +28,7 @@ namespace MVCTest.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Student student = db.Students.Find(id);
+            Students student = db.Students.Find(id);
             if (student == null)
             {
                 return HttpNotFound();
@@ -46,7 +47,7 @@ namespace MVCTest.Controllers
         // más información vea http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Nombre,Apellidos,Identificacion,Edad")] Student student)
+        public ActionResult Create([Bind(Include = "Id,Nombre,Apellidos,Identificacion,Edad")] Students student)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +66,7 @@ namespace MVCTest.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Student student = db.Students.Find(id);
+            Students student = db.Students.Find(id);
             if (student == null)
             {
                 return HttpNotFound();
@@ -78,7 +79,7 @@ namespace MVCTest.Controllers
         // más información vea http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Nombre,Apellidos,Identificacion,Edad")] Student student)
+        public ActionResult Edit([Bind(Include = "Id,Nombre,Apellidos,Identificacion,Edad")] Students student)
         {
             if (ModelState.IsValid)
             {
@@ -98,7 +99,7 @@ namespace MVCTest.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Student student = db.Students.Find(id);
+            Students student = db.Students.Find(id);
             if (student == null)
             {
                 return HttpNotFound();
@@ -111,7 +112,7 @@ namespace MVCTest.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            Student student = db.Students.Find(id);
+            Students student = db.Students.Find(id);
             
             db.SaveChanges();
             return RedirectToAction("Index");
